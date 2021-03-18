@@ -6,7 +6,7 @@
 var nomeUtente = prompt ('Qual è il tuo nome?');
 var cognomeUtente = prompt ('Qual è il tuo cognome?');
 var colorePreferito = prompt ('Qual è il tuo colore preferito?');
-var currentYear = 21;
+var currentYear = '21';
 var password
 
 //console.log(nomeUtente);
