@@ -16,4 +16,6 @@ var password
 // Logica
 password = nomeUtente + cognomeUtente + colorePreferito + currentYear;
 
+document.getElementById('nome-utente').innerHTML = nomeUtente
+
 document.getElementById('password').innerHTML = password;
